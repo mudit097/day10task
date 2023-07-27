@@ -1,0 +1,6 @@
+  "This is the first feature of our application."
+  "  This is the bug fix in the development branch. "
+  "   This is gadbad code. "
+   "  This feature will goodbad everything from now."
+    " hello"
+
